@@ -1,4 +1,4 @@
-# vue3-node-privet
+# vue3-pinia-privet
 
 ## Project setup
 ```
